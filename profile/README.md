@@ -1,6 +1,4 @@
-# RiLiGar Solutions
-
-> **Engenharia aplicada ao mundo real.**
+# 🚀 RiLiGar Solutions
 
 Aqui é onde a tecnologia da [RiLiGar](https://github.com/riligar) se transforma em produto.
 
