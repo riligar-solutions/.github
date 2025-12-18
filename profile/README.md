@@ -27,5 +27,6 @@ Disponibilizamos publicamente as peças fundamentais de nossas soluções para t
 Cada repositório aqui reflete nossa filosofia de engenharia: criar o máximo de valor com o mínimo de complexidade e custo. Esta é a prova material de que conseguimos implementar arquiteturas sofisticadas que param em pé sozinhas.
 
 <div align="center">
-<sub>© 2025 RiLiGar Solutions. Real Code. Real Business.</sub>
+  
+  **RiLiGar** © 2025 - *Building the blocks for the next generation of intelligent agent systems*
 </div>
