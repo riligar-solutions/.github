@@ -1,4 +1,4 @@
-# 🚀 RiLiGar Solutions
+# RiLiGar Solutions
 
 <div align="center">
   
@@ -9,7 +9,7 @@ Aqui é onde a tecnologia da [RiLiGar](https://github.com/riligar) se transforma
 
 A **RiLiGar Solutions** é o nosso braço de implementação. Este repositório serve como a base open-source das nossas operações, demonstrando na prática a robustez dos nossos SDKs e arquitetura. Não são apenas exemplos de código; são os componentes vitais que sustentam nossos produtos comerciais.
 
-## 🎯 Nossa Assinatura
+## Nossa Assinatura
 
 **Eficiência Extrema.**
 Cada repositório aqui reflete nossa filosofia de engenharia: criar o máximo de valor com o mínimo de complexidade e custo. Esta é a prova material de que conseguimos implementar arquiteturas sofisticadas que param em pé sozinhas.
